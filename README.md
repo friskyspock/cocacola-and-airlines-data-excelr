@@ -1,2 +1,2 @@
-# cocacola-sales-data-excelr
+# cocacola-and-airlines-data-excelr
 Assignment for forecasting
